@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class GalloPractice {
+public class main void(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    
+    if (mark < 50) {
+        System.out.println("Fail"); 
+    } else {
+        System.out.println("Pass");
+    } 
+  }
+} 
